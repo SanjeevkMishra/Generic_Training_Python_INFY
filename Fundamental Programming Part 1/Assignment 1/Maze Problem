@@ -1,0 +1,11 @@
+Question: Write a Pseudo-Code to move from the start to the End in the Maze(Drag and Drop)
+
+Solution:
+
+while(start!=end) do
+if(is_Next_Block_Bomb)then
+move Down
+else
+Move Right
+end if
+end whlie
