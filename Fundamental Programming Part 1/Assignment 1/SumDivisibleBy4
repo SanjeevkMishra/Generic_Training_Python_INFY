@@ -1,0 +1,18 @@
+Problem Statement: Write a pseudo-code to find the sum of numbers divisible by 4.
+The pseudo-code must allow the user to accept a number and add it to the sum if it is divisible by 4.
+It should continue accepting numbers as long as the user wants to provide an input and should display
+the final sum.
+
+Solution:
+
+Choice='Yes'
+Sum=0
+while(Choice=='Yes') do
+input Number
+if(Number%4==0)then
+sum=sum+Number
+end-if
+display"do You want to Continue?(Enter Yesor No)"
+input Choice
+end-while
+display Sum
