@@ -1,0 +1,9 @@
+Question: Pseudo-Code to Find if a year is leap Year or not
+Solution:
+Input Year
+if(year%400==0)then
+display"It is a leap Year"
+else if(year%4==0 and Year%100!=0)then
+display"It is a Leap Year"
+else:
+display"It is not a Leap Year"
