@@ -1,0 +1,13 @@
+Problem Statement: Write a pseudo-code to recreate the figure given in the expected canvas the 
+scenario.
+
+Solution:
+
+display Nightsky
+display Moon
+display Mountain
+display sheep
+display snow
+for(counter=0,counter<=2,counter+1)
+display tree
+end-for
