@@ -1,0 +1,14 @@
+Problem Statement: Write a pseudo-code which helps ( O> ) to reach ( E ).
+Solution:
+
+While(Start!=end) do
+if(Key_Found)then
+Unlock Lock
+if(Path_Ahead_Available)then
+move Forward
+else if(Diffuser_Found)then
+Diffuse Bombs
+else if(Lest_Turn_Available)then
+Turn Left
+end-if
+end-while
