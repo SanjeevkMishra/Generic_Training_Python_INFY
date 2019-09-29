@@ -1,0 +1,16 @@
+Problem Statement: Write a pseudo-code which helps ( O> ) to reach ( E ).
+
+solution:
+
+while(start!=end)
+if(Right_Turn_Available)then
+Turn Right
+end if
+if(red_key_found) then
+unlock red lock
+else if(blue_key_found)then
+unlock blue lock
+else 
+Move Forward
+end if
+end-while
