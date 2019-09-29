@@ -1,0 +1,12 @@
+Problem Statement:
+Write a pseudo-code to recreate the figure given in the expected canvas for the scenario.
+
+Solution:
+
+display Daylight
+for(counter=0,Counter<=3,Counter+1)
+display mountain
+end-for
+for(counter=0,counter<=2,counter+1)
+display sheep
+end-for
