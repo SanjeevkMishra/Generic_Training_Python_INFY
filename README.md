@@ -1,3 +1,3 @@
 # Python-in-Infosys
-Contains Solutions of all Assignments from Infosys Generic Training on Python.
+Contains Solutions of all Assignments from Infosys Generic Training on Python Fundamentals Part-1.
 NOTE: These are my own solutions.
