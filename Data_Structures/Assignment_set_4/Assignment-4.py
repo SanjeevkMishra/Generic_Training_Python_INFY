@@ -7,8 +7,6 @@ element is found. If the number is not found, return -1.
 
 Solution:
 
-'''
-'''
 Created on Oct 22, 2019
 
 @author: Sanjeev K. Mishra
