@@ -35,5 +35,5 @@ end if
 Scholarship_Amount=Course_Fee*scholarship/100
 Final_Fee=Course_Fee*Scholarship/100
 display Final_fee
-end-while
+end-for
     
