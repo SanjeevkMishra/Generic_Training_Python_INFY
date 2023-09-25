@@ -17,6 +17,7 @@ Solution:
 
 for(counter=1,counter<=500,Counter=counter+1)
 input Branch_of_Study,Score,Course_Fee
+scholarship=0
 if(Branch_of_Study=="Arts")then
   if(Score>=90)then
     Scholarship=50
@@ -28,9 +29,7 @@ else if(Branch_of_study=="Engineering")then
     Scholarship=50
   else if(score%7==0)then
     Scholarship=5
-  end-if
-else 
-  scholarship=0
+  end-if 
 end if
 Scholarship_Amount=Course_Fee*scholarship/100
 Final_Fee=Course_Fee*Scholarship/100
